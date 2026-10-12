@@ -1,0 +1,88 @@
+Nutzungsbedingungen für The Operator
+
+Stand: 12. Oktober 2026
+
+1. Allgemeines
+
+Diese Nutzungsbedingungen gelten für die Verwendung des Discord-Bots The Operator, der für die Discord-Community Mayhems Voice entwickelt und bereitgestellt wird.
+
+Mit der Nutzung des Bots gelten diese Nutzungsbedingungen, soweit sie wirksam vereinbart wurden.
+
+Betreiber: KaiserNase
+Discord: @kaisernase - (717384640461013032)
+
+2. Funktionsumfang
+
+The Operator ist ein Discord-Bot zur Verwaltung und Moderation von Discord-Servern.
+
+Je nach aktivierter Konfiguration kann der Bot folgende Funktionen bereitstellen:
+
+Automatische Moderation von Nachrichten
+Verwarnungen, Timeouts und Ausschlüsse
+Verwaltung von Rollen und Berechtigungen
+Protokollierung von Moderationsmaßnahmen
+Automatische Begrüßungsnachrichten
+Verwaltung von Servereinstellungen
+Ausführung von Slash-Befehlen
+
+Ein Anspruch auf bestimmte Funktionen oder deren dauerhafte Verfügbarkeit besteht nicht.
+
+3. Voraussetzungen
+
+Für die Nutzung ist ein gültiges Discord-Konto erforderlich.
+
+Nutzer müssen die geltenden Nutzungsbedingungen und Community-Richtlinien von Discord beachten.
+
+Die Verwendung des Bots darf ausschließlich im Rahmen der geltenden Gesetze erfolgen.
+
+4. Zulässige Nutzung
+
+Es ist untersagt, den Bot:
+
+Für rechtswidrige Aktivitäten einzusetzen.
+Durch Spam oder automatisierte Anfragen absichtlich zu überlasten.
+Zur Umgehung von Sicherheitsmaßnahmen zu missbrauchen.
+Für unbefugte Zugriffe auf fremde Daten oder Systeme zu verwenden.
+Zur gezielten Belästigung anderer Personen einzusetzen.
+
+Bei Verstößen kann der Betreiber den Zugang zum Bot einschränken oder sperren.
+
+5. Moderationsmaßnahmen
+
+The Operator kann entsprechend den Einstellungen eines Servers automatische Moderationsmaßnahmen durchführen.
+
+Die jeweiligen Serveradministratoren sind für die Konfiguration und den angemessenen Einsatz dieser Funktionen verantwortlich.
+
+Automatische Entscheidungen können fehlerhaft sein. Betroffene Nutzer können sich zur Überprüfung an die zuständige Servermoderation wenden.
+
+6. Verfügbarkeit
+
+Der Bot wird ohne Garantie einer unterbrechungsfreien Verfügbarkeit bereitgestellt.
+
+Wartungsarbeiten, technische Probleme oder Änderungen an der Discord-API können zu Einschränkungen führen.
+
+Der Betreiber kann Funktionen verändern, vorübergehend deaktivieren oder den Betrieb einstellen.
+
+7. Datenschutz
+
+Bei der Nutzung des Bots können personenbezogene Daten verarbeitet werden, insbesondere Discord-Nutzerkennungen, Serverkennungen und moderationsbezogene Informationen.
+
+Art, Umfang, Zweck und Dauer der Datenverarbeitung werden in einer gesonderten Datenschutzerklärung beschrieben.
+
+8. Haftung
+
+Der Betreiber haftet nach den geltenden gesetzlichen Vorschriften.
+
+Eine Haftung für Schäden durch vorsätzliches oder grob fahrlässiges Verhalten sowie für Schäden aus der Verletzung von Leben, Körper oder Gesundheit wird nicht ausgeschlossen.
+
+Im Übrigen gelten die gesetzlichen Haftungsregelungen.
+
+9. Änderungen der Nutzungsbedingungen
+
+Diese Nutzungsbedingungen können bei Bedarf für die Zukunft angepasst werden.
+
+Wesentliche Änderungen werden in geeigneter Weise bekannt gegeben.
+
+10. Kontakt
+
+Fragen zur Nutzung des Bots oder zu diesen Nutzungsbedingungen können an den Betreiber gerichtet werden.

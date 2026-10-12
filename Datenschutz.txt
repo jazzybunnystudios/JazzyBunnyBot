@@ -1,0 +1,238 @@
+DATENSCHUTZERKLÄRUNG FÜR Lucia
+
+Stand: 12. Oktober 2026
+
+1. ALLGEMEINE INFORMATIONEN
+
+Der Schutz personenbezogener Daten ist uns wichtig.
+
+Diese Datenschutzerklärung informiert darüber, welche personenbezogenen Daten bei der Nutzung des Discord-Bots „Lucia“ verarbeitet werden, zu welchen Zwecken dies geschieht und welche Rechte betroffene Personen besitzen.
+
+Lucia ist ein Discord-Bot zur Moderation, Verwaltung und Unterstützung der Discord-Community „JazzyBunny-Studios“.
+
+Die Verarbeitung personenbezogener Daten erfolgt unter Beachtung der Datenschutz-Grundverordnung (DSGVO) und der sonstigen anwendbaren Datenschutzvorschriften.
+
+2. VERANTWORTLICHER
+
+Verantwortlich für die Datenverarbeitung im Rahmen des Bot-Betriebs ist:
+
+Betreiber: KaiserNase
+
+Projekt: Lucia
+
+Community: JazzyBunny-Studios
+
+Kontakt: @kaisernase(717384640461013032)
+
+Discord-Support:
+https://discord.gg/gp5ayevsyt
+
+3. VERARBEITETE DATEN
+
+Abhängig von den aktivierten Funktionen und den erteilten Discord-Berechtigungen kann Lucia folgende Daten verarbeiten:
+
+3.1 Benutzerbezogene Daten
+
+Discord-Benutzer-ID
+Discord-Benutzername
+Anzeigename
+Serverbezogene Rollen
+Zeitpunkt des Serverbeitritts
+Moderationsstatus
+
+3.2 Serverbezogene Daten
+
+Discord-Server-ID
+Channel-IDs
+Rollen-IDs
+Konfigurationseinstellungen
+Moderationseinstellungen
+
+3.3 Nachrichtenbezogene Daten
+
+Nachrichten-IDs
+Nachrichteninhalte, soweit für aktivierte Funktionen erforderlich
+Zeitpunkte von Nachrichten
+Informationen über gelöschte oder bearbeitete Nachrichten, sofern entsprechende Funktionen aktiviert sind
+
+3.4 Moderationsdaten
+
+Verwarnungen
+Timeouts
+Ausschlüsse und Sperren
+Gründe für Moderationsmaßnahmen
+Zeitpunkte der Maßnahmen
+Discord-IDs beteiligter Nutzer und Moderatoren
+
+Es werden nur solche Daten verarbeitet, die für die jeweils aktivierten Funktionen erforderlich sind.
+
+Welche dieser Daten tatsächlich gespeichert werden, hängt von der technischen Implementierung des Bots ab.
+
+4. ZWECKE DER DATENVERARBEITUNG
+
+Personenbezogene Daten werden insbesondere für folgende Zwecke verarbeitet:
+
+Bereitstellung der Bot-Funktionen
+Automatische Moderation
+Erkennung und Verhinderung von Spam
+Durchsetzung von Serverregeln
+Verwaltung von Verwarnungen
+Dokumentation von Moderationsmaßnahmen
+Verwaltung von Rollen und Berechtigungen
+Bearbeitung von Bot-Befehlen
+Sicherstellung der technischen Funktionsfähigkeit
+Schutz vor Missbrauch
+
+Eine Nutzung personenbezogener Daten für Werbeprofile oder den Verkauf an Dritte ist nicht vorgesehen.
+
+5. RECHTSGRUNDLAGEN
+
+Die Verarbeitung personenbezogener Daten erfolgt, abhängig vom jeweiligen Verarbeitungszweck, auf Grundlage der folgenden Bestimmungen:
+
+Art. 6 Abs. 1 lit. f DSGVO:
+Berechtigte Interessen am sicheren Betrieb, der Moderation und dem Schutz der Discord-Community.
+
+Art. 6 Abs. 1 lit. b DSGVO:
+Soweit eine Verarbeitung für die Erfüllung eines Vertrags mit der betroffenen Person oder für vorvertragliche Maßnahmen erforderlich ist.
+
+Art. 6 Abs. 1 lit. c DSGVO:
+Soweit eine Verarbeitung zur Erfüllung gesetzlicher Verpflichtungen erforderlich ist.
+
+Art. 6 Abs. 1 lit. a DSGVO:
+Soweit für eine bestimmte Verarbeitung eine wirksame Einwilligung eingeholt wird.
+
+Die jeweils einschlägige Rechtsgrundlage richtet sich nach der konkreten Verarbeitung.
+
+6. SPEICHERUNG UND SPEICHERDAUER
+
+Personenbezogene Daten werden grundsätzlich nur so lange gespeichert, wie dies für den jeweiligen Zweck erforderlich ist.
+
+7. AUTOMATISIERTE MODERATION
+
+Lucia kann automatisierte Moderationsfunktionen bereitstellen.
+
+Hierzu können Nachrichten oder Nutzeraktivitäten anhand zuvor festgelegter Regeln überprüft werden.
+
+Mögliche Maßnahmen sind:
+
+Löschen von Nachrichten
+Aussprechen von Verwarnungen
+Vergabe zeitlich begrenzter Timeouts
+Einschränkung von Berechtigungen
+Ausschluss von Mitgliedern
+
+Die Maßnahmen richten sich nach der jeweiligen Serverkonfiguration.
+
+Automatisierte Moderationsentscheidungen können fehlerhaft sein.
+
+Betroffene Personen können eine Überprüfung durch die zuständige Servermoderation beantragen.
+
+Soweit automatisierte Entscheidungen rechtliche Wirkungen entfalten oder betroffene Personen in ähnlicher Weise erheblich beeinträchtigen, werden die Anforderungen des Art. 22 DSGVO beachtet.
+
+8. WEITERGABE VON DATEN
+
+Eine Weitergabe personenbezogener Daten erfolgt nur, soweit dies für den Betrieb des Bots erforderlich ist, eine entsprechende Rechtsgrundlage besteht oder eine gesetzliche Verpflichtung vorliegt.
+
+Im Rahmen der Nutzung können Daten durch folgende Stellen verarbeitet werden:
+
+Discord als Plattformanbieter
+Den für Lucia eingesetzten Hosting-Anbieter
+Berechtigte Administratoren und Moderatoren des jeweiligen Discord-Servers
+
+Ein Verkauf personenbezogener Daten findet nicht statt.
+
+9. DATENVERARBEITUNG DURCH DISCORD
+
+Lucia verwendet die technische Infrastruktur und Programmierschnittstellen von Discord.
+
+Discord verarbeitet personenbezogene Daten im Rahmen der Bereitstellung seiner Plattform nach eigenen Datenschutzbestimmungen.
+
+Weitere Informationen:
+
+https://discord.com/privacy
+
+Die Datenverarbeitung durch Discord liegt teilweise außerhalb des Einflussbereichs des Bot-Betreibers.
+
+10. DATENÜBERMITTLUNG IN DRITTLÄNDER
+
+Bei der Nutzung von Discord oder externen Hosting-Diensten kann eine Verarbeitung personenbezogener Daten außerhalb der Europäischen Union beziehungsweise des Europäischen Wirtschaftsraums stattfinden.
+
+Soweit der Bot-Betreiber für solche Übermittlungen verantwortlich ist, werden die anwendbaren gesetzlichen Anforderungen beachtet.
+
+Gegebenenfalls kommen hierfür Angemessenheitsbeschlüsse oder geeignete Garantien nach Art. 46 DSGVO in Betracht.
+
+[Konkrete Drittlandübermittlungen, Empfänger und Garantien ergänzen.]
+
+11. DATENSICHERHEIT
+
+Zum Schutz personenbezogener Daten werden angemessene technische und organisatorische Maßnahmen eingesetzt.
+
+Dazu können insbesondere gehören:
+
+Beschränkung administrativer Zugriffe
+Verwaltung von Zugriffsberechtigungen
+Schutz von Bot-Zugangsdaten
+Regelmäßige Sicherheitsupdates
+Sicherung der Serverumgebung
+Kontrolle des Zugriffs auf gespeicherte Daten
+
+Die tatsächlich eingesetzten Schutzmaßnahmen richten sich nach der technischen Infrastruktur des Bots.
+
+12. RECHTE BETROFFENER PERSONEN
+
+Betroffene Personen besitzen nach Maßgabe der gesetzlichen Voraussetzungen insbesondere folgende Rechte:
+
+Recht auf Auskunft gemäß Art. 15 DSGVO
+
+Recht auf Berichtigung gemäß Art. 16 DSGVO
+
+Recht auf Löschung gemäß Art. 17 DSGVO
+
+Recht auf Einschränkung der Verarbeitung gemäß Art. 18 DSGVO
+
+Recht auf Datenübertragbarkeit gemäß Art. 20 DSGVO
+
+Recht auf Widerspruch gemäß Art. 21 DSGVO
+
+Recht auf Widerruf einer erteilten Einwilligung gemäß Art. 7 Abs. 3 DSGVO
+
+Ein Widerruf berührt nicht die Rechtmäßigkeit der bis dahin erfolgten Verarbeitung.
+
+13. DATENSCHUTZANFRAGEN
+
+Betroffene Personen können Anfragen zur Verarbeitung ihrer personenbezogenen Daten an den Betreiber richten.
+
+Alternativ können allgemeine Supportanfragen über den Discord-Server gestellt werden.
+
+Zur Verhinderung unberechtigter Datenzugriffe kann eine angemessene Überprüfung der Identität erforderlich sein.
+
+Anfragen werden innerhalb der gesetzlichen Fristen bearbeitet.
+
+14. LÖSCHUNG PERSONENBEZOGENER DATEN
+
+Betroffene Personen können unter den gesetzlichen Voraussetzungen die Löschung ihrer personenbezogenen Daten verlangen.
+
+Eine Löschung kann eingeschränkt sein, wenn Daten weiterhin zur Erfüllung gesetzlicher Verpflichtungen oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich sind.
+
+Die Entfernung des Bots von einem Discord-Server führt nicht zwingend automatisch zur Löschung sämtlicher zuvor gespeicherter Daten.
+
+Die hierfür geltenden Löschverfahren und Fristen ergeben sich aus Abschnitt 6.
+
+15. BESCHWERDERECHT
+
+Betroffene Personen haben gemäß Art. 77 DSGVO das Recht, sich bei einer zuständigen Datenschutzaufsichtsbehörde zu beschweren, wenn sie der Ansicht sind, dass die Verarbeitung ihrer personenbezogenen Daten gegen Datenschutzrecht verstößt.
+
+16. MINDERJÄHRIGE
+
+Lucia ist grundsätzlich für die Nutzung innerhalb der nach den Discord-Nutzungsbedingungen zulässigen Altersgrenzen vorgesehen.
+
+Soweit für einzelne Datenverarbeitungen die Einwilligung Minderjähriger erforderlich ist, werden die jeweils geltenden gesetzlichen Anforderungen berücksichtigt.
+
+17. ÄNDERUNGEN DIESER DATENSCHUTZERKLÄRUNG
+
+Diese Datenschutzerklärung kann angepasst werden, wenn sich die technischen Funktionen, die Datenverarbeitung oder die gesetzlichen Anforderungen ändern.
+
+Die jeweils aktuelle Fassung wird über die offizielle Datenschutzerklärungs-URL des Bots bereitgestellt.
+
+Letzte Aktualisierung:
+12. Oktober 2026
